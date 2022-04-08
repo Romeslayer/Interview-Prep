@@ -24,35 +24,43 @@ While this resource will constantly be expanding over the next couple of months,
 Many companies want to get to know YOU. Make sure that your answers reflect who you are as a person. If you are a career changer, sometimes it can help to share why you've made the switch to this new industry! 
 
 1. *Tell me about yourself*
-  - This'll be your elevator pitch! 
+
+  - I am DéNaje Ferguson, I am a software engineer, and I recently graduated from the Turing School of Software and Design, where I had studied Front End Development. For my free time I like to browse the web, snowboard, rollerblade, ballet and many other activities. I strive to be the best developer I can be, by continually learning new technologies and methodologies from my peers and mentors. I am passionate about how technology influneces our laws. We have the power to create new ways to interact with one another, this leads to new and more complex ways for criminals to steal data or canlead to predatory buisness practices, so I will speak up against laws that refuse to protect consumer privacy and buisnesses that use technology to be unsrupulous. 
+
+
 2. *What are your weaknesses? What are your strengths?*
+
+  - One of my weaknesses is public speaking, I had never been real good at it and still get the shakes, but I had overcame my weakness by putting myself out there, since the pandemic started, I had lost some of the gains that I acqu
+
   - For both of these, make sure to highlight how you work to overcome your weakness, or how your strength can play a part in the organization!
+
+
 3. *Why do you want to be a software developer?*
-4. *Tell me about a challenging interaction with a teammate*
-5. *Tell me about a project you've completed that you're proud of*
-6. *Tell me about a problem you faced and how you solved it*
-7. *Tell me about a time you were under pressure- how did you handle it?*
-8. *What motivates you?*
-9. *What is the most helpful feedback you've ever received about yourself?*
-10. *Why should we hire you?*
-11. *How do you stay organized?*
-12. *Describe a time when you made a suggestion to improve something on a project that you were working on*
-13. *Give me an example of the project or initiative that you started on your own*
-14. *Describe a situation in which you met a major obstacle in order to complete a project. How did you deal with it?*
-15. *Has there been a time on a project when you disagreed with someone? What did you do about it?*
-16. *Describe a circumstance when you were not able to achieve a project goal that was set by your team. How did you work around that?*
-17. *Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach?*
-18. *How do you plan out a project?*
-19. *Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation?*
-20. *Describe a situation where you had to work in a team that didn’t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?*
-21. *Describe a situation when you worked effectively under pressure*
-22. *Tell me how you solve a problem*
-23. *What is your approach to working on a team?*
-24. *What is something that your hobbies or interests tell me about you that your resume cannot?*
-25. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
-26. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
-27. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
-28. *Imagine you're tasked with organizing a team bonding offsite activity. Some teammates have expressed concerns about the selected activity not being inclusive enough. What kind of actions can you take to ensure that every member of the team feels included, and how can you follow up with your teammates who have expressed concerns?*
+5. *Tell me about a challenging interaction with a teammate*
+6. *Tell me about a project you've completed that you're proud of*
+7. *Tell me about a problem you faced and how you solved it*
+8. *Tell me about a time you were under pressure- how did you handle it?*
+9. *What motivates you?*
+10. *What is the most helpful feedback you've ever received about yourself?*
+11. *Why should we hire you?*
+12. *How do you stay organized?*
+13. *Describe a time when you made a suggestion to improve something on a project that you were working on*
+14. *Give me an example of the project or initiative that you started on your own*
+15. *Describe a situation in which you met a major obstacle in order to complete a project. How did you deal with it?*
+16. *Has there been a time on a project when you disagreed with someone? What did you do about it?*
+17. *Describe a circumstance when you were not able to achieve a project goal that was set by your team. How did you work around that?*
+18. *Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach?*
+19. *How do you plan out a project?*
+20. *Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation?*
+21. *Describe a situation where you had to work in a team that didn’t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?*
+22. *Describe a situation when you worked effectively under pressure*
+23. *Tell me how you solve a problem*
+24. *What is your approach to working on a team?*
+25. *What is something that your hobbies or interests tell me about you that your resume cannot?*
+26. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
+27. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
+28. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
+29. *Imagine you're tasked with organizing a team bonding offsite activity. Some teammates have expressed concerns about the selected activity not being inclusive enough. What kind of actions can you take to ensure that every member of the team feels included, and how can you follow up with your teammates who have expressed concerns?*
 
 
 ## Technical Questions
