@@ -36,31 +36,43 @@ Many companies want to get to know YOU. Make sure that your answers reflect who 
 
 
 3. *Why do you want to be a software developer?*
+
+- I am a software developer becaause I enjoy the challenge and process of creating UI elements. I would like to use my skills to create web apps that are accessible for all users. My previous career had less opportunity for growth within the role, so I enjoy the fact that I can forge my own path with what technologies I would like to learn and techniques to improve my skills.
+
+
 5. *Tell me about a challenging interaction with a teammate*
-6. *Tell me about a project you've completed that you're proud of*
-7. *Tell me about a problem you faced and how you solved it*
-8. *Tell me about a time you were under pressure- how did you handle it?*
-9. *What motivates you?*
-10. *What is the most helpful feedback you've ever received about yourself?*
-11. *Why should we hire you?*
-12. *How do you stay organized?*
-13. *Describe a time when you made a suggestion to improve something on a project that you were working on*
-14. *Give me an example of the project or initiative that you started on your own*
-15. *Describe a situation in which you met a major obstacle in order to complete a project. How did you deal with it?*
-16. *Has there been a time on a project when you disagreed with someone? What did you do about it?*
-17. *Describe a circumstance when you were not able to achieve a project goal that was set by your team. How did you work around that?*
-18. *Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach?*
-19. *How do you plan out a project?*
-20. *Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation?*
-21. *Describe a situation where you had to work in a team that didn’t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?*
-22. *Describe a situation when you worked effectively under pressure*
-23. *Tell me how you solve a problem*
-24. *What is your approach to working on a team?*
-25. *What is something that your hobbies or interests tell me about you that your resume cannot?*
-26. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
-27. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
-28. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
-29. *Imagine you're tasked with organizing a team bonding offsite activity. Some teammates have expressed concerns about the selected activity not being inclusive enough. What kind of actions can you take to ensure that every member of the team feels included, and how can you follow up with your teammates who have expressed concerns?*
+
+- One interaction that comes to mind would be during the process of creating PotSpot, my pot hole tracking application. While we were creating the application one of the group mates were pushing a deprecated tool that helps manage and display google maps to the page. He was adamant about using this tool because there was a step by step tutorial. I had expressed my desire to use a tool that I had found that was supported. The group had decided to push on ahead with the deprecated tool just to get something implemented. On the pull request that would implement the deprecated tool I had linked several issues on the deprecated tool where the devs were pointing to use the tool I had found. To help make the transition easier I took the lead and created the layout to display the map and we were able to create the app.
+
+
+7. *Tell me about a project you've completed that you're proud of*
+
+- One project I am extremely proud of is Sample Space, a drum pad and sequencer app. I created the class structure and created the sequelizer that is fully accessible for screen readers. I uses WAI ARIA roles to define which buttons were associated with each sound and the index it would play. 
+
+
+9. *Tell me about a problem you faced and how you solved it*
+10. *Tell me about a time you were under pressure- how did you handle it?*
+11. *What motivates you?*
+12. *What is the most helpful feedback you've ever received about yourself?*
+13. *Why should we hire you?*
+14. *How do you stay organized?*
+15. *Describe a time when you made a suggestion to improve something on a project that you were working on*
+16. *Give me an example of the project or initiative that you started on your own*
+17. *Describe a situation in which you met a major obstacle in order to complete a project. How did you deal with it?*
+18. *Has there been a time on a project when you disagreed with someone? What did you do about it?*
+19. *Describe a circumstance when you were not able to achieve a project goal that was set by your team. How did you work around that?*
+20. *Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach?*
+21. *How do you plan out a project?*
+22. *Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation?*
+23. *Describe a situation where you had to work in a team that didn’t get on very well. What happened? What did you do and what role did you take? How did the situation evolve?*
+24. *Describe a situation when you worked effectively under pressure*
+25. *Tell me how you solve a problem*
+26. *What is your approach to working on a team?*
+27. *What is something that your hobbies or interests tell me about you that your resume cannot?*
+28. *Sometimes it’s just not possible to get everything on your to-do list done. Tell me about a time your responsibilities got a little overwhelming. What did you do?*
+29. *Describe a time when you saw some problem and took the initiative to correct it rather than waiting for someone else to do it*
+30. *Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?*
+31. *Imagine you're tasked with organizing a team bonding offsite activity. Some teammates have expressed concerns about the selected activity not being inclusive enough. What kind of actions can you take to ensure that every member of the team feels included, and how can you follow up with your teammates who have expressed concerns?*
 
 
 ## Technical Questions
